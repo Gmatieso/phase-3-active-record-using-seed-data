@@ -13,3 +13,7 @@ puts "Seeding games..."
 end
 
 puts "Done seeding!"
+
+#Great! Now've got plenty of seed data to work with ... 
+#and an easy way for ourselves or other developers to ...
+# populate the database anytime we need to do so
